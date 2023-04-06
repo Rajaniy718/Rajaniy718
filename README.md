@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Y Combinator (Forage Virtual Internship)](https://www.theforage.com/modules/oRMogWRHeewqHzA7u/nEg96uYWs9oh5Jrbc?ref=ETy6ahLjAFvYYc88a)
 
-- 🌱 I’m currently learning **Data Analysis, visualization.**
+- 🌱 I’m currently learning **SQL DBA.**
 
 - 📫 How to reach me **rajniy718@gmail.com**
 
