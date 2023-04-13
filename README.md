@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://img.theculturetrip.com/wp-content/uploads/2017/11/ct_cover_womensday-1.gif">
 
 
-- 🔭 I’m currently working on **Data Analysis of Mutual Funds India**
+- 🔭 I’m currently working on **SQL-Data Analysis-Visualisation of Mutual Funds India**
 
 - 🌱 I’m currently learning **SQL DBA / Data Analysis.**
 
