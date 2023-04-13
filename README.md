@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://img.theculturetrip.com/wp-content/uploads/2017/11/ct_cover_womensday-1.gif">
 
 
-- 🔭 I’m currently working on [Y Combinator (Forage Virtual Internship)](https://www.theforage.com/modules/oRMogWRHeewqHzA7u/nEg96uYWs9oh5Jrbc?ref=ETy6ahLjAFvYYc88a)
+- 🔭 I’m currently working on **Data Analysis of Mutual Funds India**
 
-- 🌱 I’m currently learning **SQL DBA.**
+- 🌱 I’m currently learning **SQL DBA / Data Analysis.**
 
 - 📫 How to reach me **rajniy718@gmail.com**
 
