@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SQL-Data Analysis-Visualisation of Mutual Funds India**
 
-- 🌱 I’m currently learning **SQL DBA / Data Analysis.**
+- 🌱 I’m currently learning **SQL DBA.**
 
 - 📫 How to reach me **rajniy718@gmail.com**
 
