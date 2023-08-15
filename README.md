@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://img.theculturetrip.com/wp-content/uploads/2017/11/ct_cover_womensday-1.gif">
 
 
-- 🔭 I’m currently working on **SQL-Data Analysis-Visualisation of Mutual Funds India**
+- 🔭 I’m currently working on **Power BI Dashboard**
 
-- 🌱 I’m currently learning **SQL DBA.**
+- 🌱 I’m currently learning **Applied Business Analytics**
 
 - 📫 How to reach me **rajniy718@gmail.com**
 
